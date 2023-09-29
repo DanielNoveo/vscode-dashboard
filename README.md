@@ -1,4 +1,4 @@
-# VSCode Project Dashboard
+# VSCode Project Dashboard -Q
 
 **VSCode Project Dashboard** is a Visual Studio Code extension that lets you organize your projects in a speed-dial like manner. Pin your frequently visited **folders**, **files**, and **SSH remotes** onto a dashboard to access them quickly.
 
